@@ -1,3 +1,4 @@
+package Day1;
 public class Condition {
     public static void main(String[] args) {
         boolean learning = false;

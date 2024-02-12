@@ -1,3 +1,4 @@
+package Day1;
 class Integers {
     public static void main(String[] arguments) {
         int a;
