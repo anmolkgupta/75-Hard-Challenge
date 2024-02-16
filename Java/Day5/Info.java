@@ -1,5 +1,7 @@
 package Day5;
 
+// create interface in java
+
 public interface Info {
     static final String language = "Java";
     public void display();

@@ -7,6 +7,7 @@ public class Programming {
         System.out.println("Constructor method called.");
     }
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         Programming object = new Programming();
     }

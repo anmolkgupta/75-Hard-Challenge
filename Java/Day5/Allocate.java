@@ -3,6 +3,7 @@ package Day5;
 // Advantage of finally in exception handling
 
 public class Allocate {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         
         try {
